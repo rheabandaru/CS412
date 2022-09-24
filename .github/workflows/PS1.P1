@@ -5,4 +5,3 @@ const spinWords = str => str
     : word)
   .join(' ')
   
-console.log(spinWords("Hey fellow warriors"))
